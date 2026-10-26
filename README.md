@@ -107,19 +107,19 @@ Agent execution ordering is governed by an in-house **DAG Topological Queue Engi
 
 #### 1. Principal Executive Dashboard
 *Real-time attendance telemetry, school-wide announcements, and operational health metrics.*  
-![Principal Dashboard](assets/principal-dashboard-overview.png)
+![Principal Dashboard](principal-dashboard-overview.png)
 
 #### 2. Faculty Attendance Module (Teacher Role)
 *Real-time classroom attendance tracking (Present, Absent, Tardy) with instant state updates.*  
-![Teacher Attendance Panel](assets/teacher-attendance-panel.png)
+![Teacher Attendance Panel](teacher-attendance-panel.png)
 
 #### 3. Communications & Announcement Engine (Principal Role)
 *Targeted announcements with priority flags, sticky pins, and school-wide vs. classroom scope targeting.*  
-![Principal Announcements Module](assets/principal-announcements-module.png)
+![Principal Announcements Module](principal-announcements-module.png)
 
 #### 4. Student Portal (Zero-Trust Data Isolation)
 *Student view demonstrating strict scope enforcement: isolated classroom feeds and personal attendance logs.*  
-![Student Dashboard](assets/student-dashboard-announcements.png)
+![Student Dashboard](student-dashboard-announcements.png)
 
 ---
 
