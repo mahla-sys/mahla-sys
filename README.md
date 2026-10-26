@@ -107,19 +107,19 @@ Agent execution ordering is governed by an in-house **DAG Topological Queue Engi
 
 #### 1. Multi-School Intake Dashboard
 *Tracking incoming batch uploads, anomaly scores, and processing queues per institutional tenant.*  
-![School Intake Dashboard](school-intake-dashboard.png)
+![School Intake Dashboard](https://raw.githubusercontent.com/mahla-sys/Excel_import/main/docs/school-intake-dashboard.png)
 
 #### 2. Smart Column Mapping Engine
 *Automatic positional disambiguation of duplicate header columns (e.g., student vs. parental National IDs).*  
-![Smart Column Mapping](smart-column-mapping.png)
+![Smart Column Mapping](https://raw.githubusercontent.com/mahla-sys/Excel_import/main/docs/smart-column-mapping.png)
 
 #### 3. Extraction Validation & Record Classification
 *Live pipeline output: isolating valid vs. incomplete student records while preserving raw input rows.*  
-![Student Extraction Validation](student-extraction-validation.png)
+![Student Extraction Validation](https://raw.githubusercontent.com/mahla-sys/Excel_import/main/docs/student-extraction-validation.png)
 
 #### 4. Batch Management & Historical Audit Logs
 *Multi-year historical batch audit tracking across academic cycles.*  
-![Batch Management History](batch-management-history.png)
+![Batch Management History](https://raw.githubusercontent.com/mahla-sys/Excel_import/main/docs/batch-management-history.png)
 
 ---
 
@@ -151,19 +151,19 @@ Designed an **isolated multi-tenant Staging Area** positioned upstream of the co
 
 #### 1. Principal Executive Dashboard
 *Real-time attendance telemetry, school-wide announcements, and operational health metrics.*  
-![Principal Dashboard](principal-dashboard-overview.png)
+![Principal Dashboard](https://raw.githubusercontent.com/mahla-sys/school-system/main/docs/principal-dashboard-overview.png)
 
 #### 2. Faculty Attendance Module (Teacher Role)
 *Real-time classroom attendance tracking (Present, Absent, Tardy) with instant state updates.*  
-![Teacher Attendance Panel](teacher-attendance-panel.png)
+![Teacher Attendance Panel](https://raw.githubusercontent.com/mahla-sys/school-system/main/docs/teacher-attendance-panel.png)
 
 #### 3. Communications & Announcement Engine (Principal Role)
 *Targeted announcements with priority flags, sticky pins, and school-wide vs. classroom scope targeting.*  
-![Principal Announcements Module](principal-announcements-module.png)
+![Principal Announcements Module](https://raw.githubusercontent.com/mahla-sys/school-system/main/docs/principal-announcements-module.png)
 
 #### 4. Student Portal (Zero-Trust Data Isolation)
 *Student view demonstrating strict scope enforcement: isolated classroom feeds and personal attendance logs.*  
-![Student Dashboard](student-dashboard-announcements.png)
+![Student Dashboard](https://raw.githubusercontent.com/mahla-sys/school-system/main/docs/student-dashboard-announcements.png)
 
 ---
 
